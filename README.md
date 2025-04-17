@@ -1,6 +1,6 @@
 # myBank
 
-Projet React & Symfony avec Docker
+Projet React & Symfony (Docker)
 
 Ce projet contient une application web composée de deux parties :
 
